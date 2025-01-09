@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Doe
+# 👋 Hi, I'm Khondamir Yunusov
 
 ## About Me
 - 👀 I’m passionate about **design-to-code conversion**, especially building **Landing Pages** from Figma designs.
