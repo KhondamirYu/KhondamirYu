@@ -13,6 +13,8 @@
 
 ## My Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **Backend Development**:Node.js,Express.js
+- **Database**:Supabase, MongoDB
 - **Mobile Development**: React Native
 - **Version Control**: Git, GitHub
 - **UI/UX Tools**: Figma, Adobe XD
@@ -20,7 +22,7 @@
 
 ## Currently Learning
 - Building **cross-platform mobile applications** using React Native.
-- **API integration** and backend communication with Firebase and GraphQL.
+- **API integration** and backend communication with Firebase and GraphQL .
 - Advanced **animations** and interactions for mobile and web platforms.
 
 ## Fun Facts
