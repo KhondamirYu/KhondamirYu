@@ -9,7 +9,7 @@
   - **CSS Frameworks** like **Tailwind CSS** and **Bootstrap**
 - 💞️ I’m looking to collaborate on:
   - Building **multi-functional webpages** with dynamic features.
-  - Creating **scalable front-end architectures** for web and mobile applications.
+  - Creating **scalable Full-Stack architectures** for web and mobile applications.
 
 ## My Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
